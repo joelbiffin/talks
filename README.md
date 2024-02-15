@@ -1,5 +1,9 @@
 # Talks Given in the Public Realm
 
+An incomplete list of some talks I've given out in the wild. Maybe one day I'll get my act together and genuinely use this repo to develop them but who knows.
+
+If you're interested in anything that I've spoken about then feel free to reach out to me on [linkedin](https://www.linkedin.com/in/joelbiffin/).
+
 ## LLGems: Re-using Code the Ruby Way
 
 The talk takes a look under the hood of Cleo's Rails monolith, the Rails Engines, and how we share code between them. It's a bit like a kitchen experiment – blending the best of both worlds to enhance the Separation of Concerns, while still keeping our favorite code recipes within reach.
